@@ -2,7 +2,7 @@ import openai
 import json
 
 # Initialize OpenAI API
-openai.api_key = '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'
+openai.api_key = OPENAI_API_KEY
 
 def classify_business(business_name, business_types):
     """Classify business based on its name and types using OpenAI GPT API."""
