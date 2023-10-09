@@ -1,0 +1,409 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.4791667,
+        "lng": -74.4269444
+      },
+      "viewport": {
+        "south": 40.4776520697085,
+        "west": -74.4282400302915,
+        "north": 40.4803500302915,
+        "east": -74.42554206970848
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "New Jersey State Bar Association",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109629257108598131166\">Annmarie Klimowicz</a>"
+        ],
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ6xHTERXGw4kRRE5zEHUJX4w",
+    "plus_code": {
+      "compound_code": "FHHF+M6 New Brunswick, NJ, USA",
+      "global_code": "87G7FHHF+M6"
+    },
+    "rating": 4,
+    "reference": "ChIJ6xHTERXGw4kRRE5zEHUJX4w",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 27,
+    "vicinity": "1 Constitution Sq, New Brunswick",
+    "html_attributions": [],
+    "classification": "HABA Services (standing for \"health and beauty aids\")"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.4834785,
+        "lng": -74.4305169
+      },
+      "viewport": {
+        "south": 40.48205376970849,
+        "west": -74.4318573302915,
+        "north": 40.48475173029149,
+        "east": -74.4291593697085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Rutgers University Inn and Conference Center",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101230477765466145030\">Ana Cristina Mart\u00c3\u00adnez Maciel</a>"
+        ],
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJtZ3L80DGw4kRPuoLBDJ1Nk8",
+    "plus_code": {
+      "compound_code": "FHM9+9Q New Brunswick, NJ, USA",
+      "global_code": "87G7FHM9+9Q"
+    },
+    "rating": 4.3,
+    "reference": "ChIJtZ3L80DGw4kRPuoLBDJ1Nk8",
+    "scope": "GOOGLE",
+    "types": [
+      "health",
+      "lodging",
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 127,
+    "vicinity": "178 Ryders Lane, New Brunswick",
+    "html_attributions": [],
+    "classification": "Food (restaurant)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.4750117,
+        "lng": -74.436144
+      },
+      "viewport": {
+        "south": 40.4737387697085,
+        "west": -74.43750813029149,
+        "north": 40.4764367302915,
+        "east": -74.43481016970848
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Round House",
+    "place_id": "ChIJLY8RlG7Gw4kRpqlcaBXY3Oc",
+    "plus_code": {
+      "compound_code": "FHG7+2G New Brunswick, NJ, USA",
+      "global_code": "87G7FHG7+2G"
+    },
+    "rating": 5,
+    "reference": "ChIJLY8RlG7Gw4kRpqlcaBXY3Oc",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Round House, New Brunswick",
+    "html_attributions": [],
+    "classification": "This business would most likely fall under the category of Home Goods."
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.48298799999999,
+        "lng": -74.4372551
+      },
+      "viewport": {
+        "south": 40.48172536970849,
+        "west": -74.4385190302915,
+        "north": 40.48442333029149,
+        "east": -74.43582106970848
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Department of Entomology",
+    "place_id": "ChIJiQXOH2jGw4kRWpblDJPWdnE",
+    "plus_code": {
+      "compound_code": "FHM7+53 New Brunswick, NJ, USA",
+      "global_code": "87G7FHM7+53"
+    },
+    "reference": "ChIJiQXOH2jGw4kRWpblDJPWdnE",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "96 Lipman Drive, New Brunswick",
+    "html_attributions": [],
+    "classification": "HABA Services"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.4802672,
+        "lng": -74.4353771
+      },
+      "viewport": {
+        "south": 40.4789065697085,
+        "west": -74.4365865302915,
+        "north": 40.4816045302915,
+        "east": -74.43388856970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Rutgers University Bio Tech",
+    "place_id": "ChIJl4J582nGw4kRMuMWavUXYCc",
+    "plus_code": {
+      "compound_code": "FHJ7+4R New Brunswick, NJ, USA",
+      "global_code": "87G7FHJ7+4R"
+    },
+    "rating": 5,
+    "reference": "ChIJl4J582nGw4kRMuMWavUXYCc",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Foran Hall, 59 Dudley Road, New Brunswick",
+    "html_attributions": [],
+    "classification": "Education (University)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.4892468,
+        "lng": -74.4416608
+      },
+      "viewport": {
+        "south": 40.4879513697085,
+        "west": -74.44286843029151,
+        "north": 40.4906493302915,
+        "east": -74.4401704697085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "MarMar Enterprises",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJu3_tKFvGw4kRb_RJf2w_9S8",
+    "plus_code": {
+      "compound_code": "FHQ5+M8 New Brunswick, NJ, USA",
+      "global_code": "87G7FHQ5+M8"
+    },
+    "rating": 4.6,
+    "reference": "ChIJu3_tKFvGw4kRb_RJf2w_9S8",
+    "scope": "GOOGLE",
+    "types": [
+      "accounting",
+      "finance",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "226 George Street, New Brunswick",
+    "html_attributions": [],
+    "classification": "Based on the business name and types, I would classify MarMar Enterprises as an establishment in the field of accounting and finance. It does not fit into any of the listed categories."
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 40.48472789999999,
+        "lng": -74.4366266
+      },
+      "viewport": {
+        "south": 40.48351966970849,
+        "west": -74.4378387802915,
+        "north": 40.48621763029149,
+        "east": -74.4351408197085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Douglass Campus Center Computer Lab",
+    "permanently_closed": true,
+    "place_id": "ChIJ26FAukPGw4kRScamLpPCmFw",
+    "plus_code": {
+      "compound_code": "FHM7+V8 New Brunswick, NJ, USA",
+      "global_code": "87G7FHM7+V8"
+    },
+    "rating": 3,
+    "reference": "ChIJ26FAukPGw4kRScamLpPCmFw",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Douglass Campus Center, 100 George Street, New Brunswick",
+    "html_attributions": [],
+    "classification": "Electronics (Electronics Services)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.48825069999999,
+        "lng": -74.4379348
+      },
+      "viewport": {
+        "south": 40.4868464697085,
+        "west": -74.43914358029151,
+        "north": 40.4895444302915,
+        "east": -74.4364456197085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Riverside Towers Apartment Homes",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100152927242075918749\">Riverside Towers Apartment Homes</a>"
+        ],
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJj5xW7ETGw4kRboriKJA02iQ",
+    "plus_code": {
+      "compound_code": "FHQ6+8R New Brunswick, NJ, USA",
+      "global_code": "87G7FHQ6+8R"
+    },
+    "rating": 2.9,
+    "reference": "ChIJj5xW7ETGw4kRboriKJA02iQ",
+    "scope": "GOOGLE",
+    "types": [
+      "real_estate_agency",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 96,
+    "vicinity": "10 Paul Robeson Boulevard, New Brunswick",
+    "html_attributions": [],
+    "classification": "Home Goods"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.4877367,
+        "lng": -74.4398076
+      },
+      "viewport": {
+        "south": 40.4863928697085,
+        "west": -74.4409826802915,
+        "north": 40.4890908302915,
+        "east": -74.43828471970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Rutgers Public Safety Building",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101484721898464374922\">Jerycos Jewels</a>"
+        ],
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJ39L8u0TGw4kRtJf8e2rNJww",
+    "plus_code": {
+      "compound_code": "FHQ6+33 New Brunswick, NJ, USA",
+      "global_code": "87G7FHQ6+33"
+    },
+    "rating": 3,
+    "reference": "ChIJ39L8u0TGw4kRtJf8e2rNJww",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "55 Commercial Avenue, New Brunswick",
+    "html_attributions": [],
+    "classification": "A potential category for Rutgers Public Safety Building could be Home Goods, as it is a public building that likely offers services such as security and safety equipment for the home."
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.4888349,
+        "lng": -74.4395011
+      },
+      "viewport": {
+        "south": 40.48751791970849,
+        "west": -74.44077023029152,
+        "north": 40.49021588029149,
+        "east": -74.4380722697085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "St Vincent De Paul Society",
+    "place_id": "ChIJG6ZE3UTGw4kRU-n9SjhXrxk",
+    "plus_code": {
+      "compound_code": "FHQ6+G5 New Brunswick, NJ, USA",
+      "global_code": "87G7FHQ6+G5"
+    },
+    "reference": "ChIJG6ZE3UTGw4kRU-n9SjhXrxk",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "18 Neilson Street # 2, New Brunswick",
+    "html_attributions": [],
+    "classification": "HABA Goods"
+  }
+]
