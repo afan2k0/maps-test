@@ -7,7 +7,9 @@
 <html>
   <head>
     <title>Place Searches</title>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <script src="index.js" defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBox16NHR95Bcmg896PR_dc43AH1zxpsFw&libraries=places&callback=initMap" defer></script>
+    <link rel="stylesheet" href="styles.css">
     <!-- jsFiddle will insert css and js -->
   </head>
   <body>
@@ -20,9 +22,6 @@
       See https://developers.google.com/maps/documentation/javascript/load-maps-js-api
       for more information.
       -->
-    <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&callback=initMap&libraries=places&v=weekly"
-      defer
-    ></script>
+  
   </body>
 </html>
